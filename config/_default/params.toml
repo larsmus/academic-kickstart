@@ -243,13 +243,13 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
-  api_key = "AIzaSyCkg0wSqR9SaoL8gAlfDe-IdSpy6aHplXg"
+  engine = 2
+  api_key = ""
   zoom = 15
 
 ############################
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-149944839-1"
   google_tag_manager = ""
